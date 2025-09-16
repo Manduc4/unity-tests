@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`snapshot tests derivative returns expected value snapshot 1`] = `11.999999999545706`;
+
+exports[`snapshot tests sum returns expected value snapshot 1`] = `30`;
